@@ -21,12 +21,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the 3-column preview card component](./screenshot/Screenshot 2021-06-25 at 17-01-08 Frontend Mentor 3-column preview card component.png)
+![Screenshot of the 3-column preview card](https://raw.githubusercontent.com/rohits673/3-column-preview-card/master/screenshot/Screenshot%202021-06-25%20at%2017-01-08%20Frontend%20Mentor%203-column%20preview%20card%20component.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Preview Site](https://rohits673.github.io/3-column-preview-card)
 
 ### Built with
 
@@ -38,5 +37,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Coming Soon](#)
 - Frontend Mentor - [@rohits673](https://www.frontendmentor.io/profile/rohits673)
